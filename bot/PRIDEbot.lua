@@ -228,14 +228,14 @@ function create_config( )
     "plugins",
     "tagall"
     },
-    sudo_users = {164985762,122774063},--Sudo users
+    sudo_users = {144636299},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[PRIDE PLUS V1
     Forked On MEGA SATAN
     
     Admin:
-    @King_KENTam_bokon_namooset 😶
+    ---
     
     Develped By Mr Ah S & SBSS Team
     
